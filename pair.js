@@ -57,24 +57,24 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: '' + b64data });
 
                let FLASH_MD_TEXT = `
-*_Pair Code for FLASH-MD Connected_*
-*_Made With 🤍_*
-*_By France King_*
+*_Ibrahim Tech just logged in_*
+*_Made With ☣_*
+*_By Ibrahim adams_*
 ______________________________________
 ╔════◇
-║ *『 THANKS FOR CHOOSING FLASH-MD 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
-╰═════════════⊷
+║ *『 IBRAHIM-TECH OFFICIAL 』*
+║ _YOU HAVE SUCCESSFULLY SELECTED THE BEST BOT._
+╚══════════════════════╝
 ╔═════◇
-║  『••• FOR HELP VISIT•••』
-║❒ *Instagram:* _https://instagram.com/france.king1_
-║❒ *Owner:* _https://wa.me/254757835036_
-║❒ *Repo:* _https://github.com/franceking1/Flash-Md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/CtBGmUkwXiA6kGYAyU5MaX_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P_
-╰═════════════⊷ 
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *Ytube:* _https://wa.me/message/74F2PC4JA4F3P1_
+║❒ *Owner:* _https://wa.me/message/74F2PC4JA4F3P1_
+║❒ *Repo:* _https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main_
+║❒ *WaGroup:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
+║❒ *WaChannel:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
+║❒ *Plugins:* _https://github.com/Ibrahimaitech/Ibrahim-bot-md-plugins_
+╚══════════════════════╝ 
 _____________________________________
-
 _Don't Forget To Give a Star To My Repo_`
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
