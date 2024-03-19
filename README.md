@@ -21,11 +21,11 @@ QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/franceking1/Flash-Md-Session/fork"><img title="WEB" src="https://img.shields.io/badge/FORK FLASH-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/ibrahimaitech/Ibrahim-pairing-code"><img title="WEB" src="https://img.shields.io/badge/FORK FLASH-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/Flash-Md-Session11'
+<a href='https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/Ibrahim-pairing-code'
 target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 # `Owner`
 
