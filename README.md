@@ -1,4 +1,4 @@
-# Flash Md-session-generator
+# -session-generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -12,8 +12,8 @@ QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
     <img src="https://avatars.githubusercontent.com/u/151246926?v=4" width="500">
      
 </a>
-   <a aria-label="QRis free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
- <p align="center"><img src="https://profile-couh.ng1}/count.svg" alt="franceking1:: Visitor's Count" /></p>
+   <a aria-label="QRis free to use" href="https://whatsapp.com/channel/Xo4JJhzW9c1uVD2X" target="_blank">
+ <p align="center"><img src="https://profile-couh.ngnt.svg" alt="franceking1:: Visitor's Count" /></p>
 
 
 
