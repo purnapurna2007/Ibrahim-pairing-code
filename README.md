@@ -13,7 +13,7 @@ QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
      
 </a>
    <a aria-label="QRis free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
- <p align="center"><img src="https://profile-counter.glitch.me/{franceking1}/count.svg" alt="franceking1:: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-couh.ng1}/count.svg" alt="franceking1:: Visitor's Count" /></p>
 
 
 
