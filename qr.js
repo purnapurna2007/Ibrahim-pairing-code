@@ -59,23 +59,35 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id, { text: '' + b64data });
 	
 				   let FLASH_MD_TEXT = `
-*_Qr Code By Ibrahim adams_*
-*_Made With ☣_*
-_____________________________________
+*𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝘼𝘾𝙏𝙄𝙑𝙀*
+*𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃*
+*𝙊𝙒𝙉𝙀𝙍 : 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎*
+____________________________________
 ╔════◇
-║ *『 IBRAHIM-TECH OFFICIAL 』*
-║ _YOU HAVE SUCCESSFULLY SELECTED THE BEST BOT._
-╚══════════════════════╝
+║『 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃 𝘼𝙄 𝙎𝙀𝙎𝙎𝙄𝙊𝙉』
+║ OK YOUR SESSION IS READY COPY IT  
+  AND HOST IT ON HEROKU.
+╚════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://wa.me/message/74F2PC4JA4F3P1_
-║❒ *Owner:* _https://wa.me/message/74F2PC4JA4F3P1_
-║❒ *Repo:* _https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main_
-║❒ *WaGroup:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
-║❒ *WaChannel:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
-║❒ *Plugins:* _https://github.com/Ibrahimaitech/Ibrahim-bot-md-plugins_
-╚══════════════════════╝ 
-_____________________________________
+ 『••• OWNER INFO •••』
+
+║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@ibrahimmdgpt_
+
+║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/74F2PC4JA4F3P1_
+
+║❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech/IBRAHIM-MD_
+
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/H6KaBzAhRnw52DM93KsRy2_
+
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+
+║❒ 𝐍𝐎𝐓𝐄: _𝐉𝐎𝐈𝐍 𝐌𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐀𝐍𝐃 𝐅𝐎𝐋𝐋𝐎𝐖 + 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐎𝐍 𝐘𝐎𝐔𝐓𝐔𝐁𝐄_
+
+ 🐯🐯🐯
+╚════════════════════╝ 
+ *©𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗧𝗘𝗖𝗛*
+___________________________________
+
 	
 _Don't Forget To Give Star To My Repo_`
 	 await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
