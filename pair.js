@@ -54,39 +54,38 @@ router.get('/', async (req, res) => {
                 let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
                 await delay(800);
                let b64data = Buffer.from(data).toString('base64');
-               let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: '' + b64data });
+               let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: 'PANTHER;;;' + b64data });
 
                let FLASH_MD_TEXT = `
-*𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝘼𝘾𝙏𝙄𝙑𝙀*
+*𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
 *𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃*
-*𝙊𝙒𝙉𝙀𝙍 : 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎*
+*𝙊𝙒𝙉𝙀𝙍 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎*
 ____________________________________
 ╔════◇
-║『 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃 𝘼𝙄 𝙎𝙀𝙎𝙎𝙄𝙊𝙉』
+║『 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝙄 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
 ║ OK YOUR SESSION IS READY COPY IT  
-  AND HOST IT ON HEROKU.
+║ AND HOST IT ON HEROKU.
 ╚════════════════════╝
 ╔═════◇
- 『••• OWNER INFO •••』
+║ 『••• OWNER INFO •••』
+║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@ibrahimmdgpt_
 
-║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@ibrahimmdgpt_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/74F2PC4JA4F3P1_
 
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/74F2PC4JA4F3P1_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech_
 
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech/IBRAHIM-MD_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/H6KaBzAhRnw52DM93KsRy2_
 
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/H6KaBzAhRnw52DM93KsRy2_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
 
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/ibrahim_tech_official_
 
-║❒ 𝐍𝐎𝐓𝐄: _𝐉𝐎𝐈𝐍 𝐌𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐀𝐍𝐃 𝐅𝐎𝐋𝐋𝐎𝐖 + 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐎𝐍 𝐘𝐎𝐔𝐓𝐔𝐁𝐄_
-
- 🐯🐯🐯
+║ 🐯🐯🐯
 ╚════════════════════╝ 
  *©𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗧𝗘𝗖𝗛*
 ___________________________________
 
-_Don't Forget To Give a Star To My Repo_`
+Don't Forget To Give Star⭐ To My Repo_`
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
 
