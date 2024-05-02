@@ -72,7 +72,7 @@ ____________________________________
 
 ║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://t.me/@Ibrahimadamstech_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://t.me/Ibrahimadamstech_
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS_
 
