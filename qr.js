@@ -65,16 +65,16 @@ router.get('/', async (req, res) => {
 ____________________________________
 ╔════◇
 ║『 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝙄 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
-║ OK YOUR SESSION IS READY COPY IT  
-║ AND HOST IT ON HEROKU.
+║ YOUR SESSION IS READY. COPY IT  
+║ AND HOST IT ON YOUR WEB.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
 ║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://youtube.com/@ibrahimaitech_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://t.me/@Ibrahimadamstech_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://t.me/Ibrahimadamstech_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://t.me/Ibrahimadamstech_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech_
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS_
 
